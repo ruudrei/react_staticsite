@@ -7,5 +7,6 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
-  pathPrefix: "/gatsby-site"
+  // repo name
+  pathPrefix: "/react_staticsite"
 }
