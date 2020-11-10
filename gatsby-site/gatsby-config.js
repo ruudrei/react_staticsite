@@ -5,6 +5,10 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "First React Practice",
+    author: "Ryosuke Kawasaki",
+  },
   /* Your site config here */
   plugins: [],
   // repo name

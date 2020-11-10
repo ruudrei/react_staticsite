@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),c=t("Z3vd");n.default=function(){return r.a.createElement("div",null,r.a.createElement(c.a,{variant:"contained",color:"primary",href:"/Album"},"link to test page"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-06fcc2cf70250d0bb3d9.js.map

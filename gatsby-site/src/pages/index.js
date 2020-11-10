@@ -1,5 +1,13 @@
 import React from "react"
+import { Button } from "@material-ui/core"
 
-export default function Home() {
-  return <div>Hello world!</div>
+const IndexPage = () => {
+  return (
+    <div>
+      <Button variant="contained" color="primary" href="/Album">
+        link to test page
+      </Button>
+    </div>
+  )
 }
+export default IndexPage
