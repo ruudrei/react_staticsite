@@ -1,3 +1,4 @@
+// ビルド時ルートディレクトリへdocsとして静的ファイルを作成
 const path = require("path")
 const fs = require("fs")
 
