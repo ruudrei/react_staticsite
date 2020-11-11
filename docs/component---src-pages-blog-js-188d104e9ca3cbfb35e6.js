@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{vx99:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("Wbzz"),u=function(){return l.a.createElement("footer",null,l.a.createElement("p",null,"Created by VINX, ©︎2020"))};n.default=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Blog"),l.a.createElement(r.a,{to:"/"},"TOP"),l.a.createElement(u,null))}}}]);
-//# sourceMappingURL=component---src-pages-blog-js-188d104e9ca3cbfb35e6.js.map
