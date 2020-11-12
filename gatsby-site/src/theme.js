@@ -10,6 +10,14 @@ const theme = createMuiTheme({
     primary: purple,
     secondary: blue,
   },
+  // IconButtonの規定色を白に上書き
+  overrides: {
+    MuiIconButton: {
+      label: {
+        color: "white",
+      },
+    },
+  },
 })
 
 export default theme
